@@ -1,2 +1,3 @@
-# Identifying-Fake-Job-Listings
-The main objective of this project is to use machine learning and natural language processing (NLP) to detect fraudulent job listings in the online job market. Using generative AI models,we tidied and organized the dataset and created a Random Forest classifier to identify phony job posts. 
+This project focuses on identifying fraudulent job listings in the digital employment market using Natural Language Processing (NLP) and machine learning techniques. Our team cleaned and structured the dataset with Generative AI models and built a Random Forest classifier to predict fake job postings. The model achieved a 96% accuracy rate, providing a scalable solution to enhance job platform security.
+
+Technologies used: Python, Scikit-learn, BERT, TF-IDF, Random Forest, and Generative AI.
